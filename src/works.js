@@ -324,6 +324,32 @@ export const works=[
     "summary": "An early Picasso study revealing how the final composition changed.",
     "question": "What does a discarded idea tell us about the finished work?",
     "note": "Artwork image is subject to museum and rights-holder terms."
+  },
+  {
+    "id": "work-026",
+    "mindId": "terence-mckenna",
+    "title": "Terence McKenna Audio Archive",
+    "kind": "Archive",
+    "relation": "Official archive",
+    "access": "Free and paid options",
+    "host": "Lux Natura / McKenna family",
+    "url": "https://www.terencemckenna.com/audio",
+    "summary": "Family-managed directory of McKenna's talks, licensed recordings, and free-listening references.",
+    "question": "What turns an intriguing speculation into a claim worth testing?",
+    "note": "Rights to McKenna's words and voice are managed by Lux Natura; no recordings or transcripts are copied here."
+  },
+  {
+    "id": "work-027",
+    "mindId": "terence-mckenna",
+    "title": "McKenna, Abraham & Sheldrake Trialogues",
+    "kind": "Lecture",
+    "relation": "Historical discussion",
+    "access": "Free listening",
+    "host": "Rupert Sheldrake archive",
+    "url": "https://www.sheldrake.org/audios/the-sheldrake-mckenna-abraham-trialogues",
+    "summary": "Recorded discussions among McKenna, Ralph Abraham, and Rupert Sheldrake, 1989–1998.",
+    "question": "How does imaginative dialogue differ from empirical agreement?",
+    "note": "Historical recordings including speculative arguments. Linked to their host, not reproduced."
   }
 ];
 export const workKinds=["All formats","Book","Lecture","Artwork","Article","Archive"];
