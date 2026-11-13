@@ -7,6 +7,7 @@ An open-source React atlas for curious people. Explore 42 thinkers across seven 
 ## Features
 - Search and discipline filters, with profile links to reference material
 - 14 curated idea bridges, each with resonance, tension, and a reflection question
+- Interactive timeline: eras, year scrubber, and contemporaries
 - Random thinker and changing questions
 - Favorites and notes saved in browser storage; export them to JSON
 - Responsive, accessible-first interface; reduced-motion support
@@ -26,6 +27,10 @@ npm run build
 Under **Settings → Pages**, select **GitHub Actions** as the source. The workflow at .github/workflows/deploy.yml runs tests, builds the Vite app, and deploys on pushes to main. Vite's base path is configured for /PhiPonder/.
 
 Once deployed, the page is expected at: https://michaelwave369.github.io/PhiPonder/
+
+## Timeline integrity
+
+All 42 thinkers have chronological placements, with uncertain and traditional ranges explicitly distinguished from documented lifetimes. Temporal overlap does not prove that historical people met or influenced one another. The year marker counts only individuals in this collection.
 
 ## Source integrity
 Profile summaries and prompts are original editorial paraphrases, **not quotations**. Connections are thought experiments, **not proof of historical influence**. Some ideas are speculative or scientifically disputed; critical context is included where appropriate. Profiles link to biography/reference pages and can be expanded with stronger primary-source citations.
